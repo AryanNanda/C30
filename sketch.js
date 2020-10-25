@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint
 var gameState = "onsling";
 var polygon,polyImg;
 function preload(){
-  polyImg = loadImage("images/polygon.png")
+  polyImg = loadImage("polygon.png")
 }
 function setup() {
 
